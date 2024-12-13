@@ -1,0 +1,251 @@
+rank_2021,title,year,IMBD_rating_2021,genre,run_time,budget,box_office
+1,The Shawshank Redemption,1994,9.3,Drama,2h 22m,25000000.0,28884504.0
+2,The Godfather,1972,9.2,"Crime,Drama",2h 55m,6000000.0,250341816.0
+3,The Dark Knight,2008,9.0,"Action,Crime,Drama",2h 32m,185000000.0,1006234167.0
+4,The Godfather Part II,1974,9.0,"Crime,Drama",3h 22m,13000000.0,47961919.0
+5,12 Angry Men,1957,9.0,"Crime,Drama",1h 36m,350000.0,955.0
+6,Schindler's List,1993,9.0,"Biography,Drama,History",3h 15m,22000000.0,322161245.0
+7,The Lord of the Rings: The Return of the King,2003,9.0,"Action,Adventure,Drama",3h 21m,94000000.0,1146457748.0
+8,Pulp Fiction,1994,8.9,"Crime,Drama",2h 34m,8000000.0,213928762.0
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Action,Adventure,Drama",2h 58m,93000000.0,898204420.0
+10,"The Good, the Bad and the Ugly",1966,8.8,"Adventure,Western",2h 58m,1200000.0,25253887.0
+11,Forrest Gump,1994,8.8,"Drama,Romance",2h 22m,55000000.0,678226465.0
+12,Fight Club,1999,8.8,Drama,2h 19m,63000000.0,101209702.0
+13,The Lord of the Rings: The Two Towers,2002,8.8,"Action,Adventure,Drama",2h 59m,94000000.0,947944270.0
+14,Inception,2010,8.8,"Action,Adventure,Sci-Fi",2h 28m,160000000.0,836848102.0
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,"Action,Adventure,Fantasy",2h 4m,18000000.0,538375067.0
+16,The Matrix,1999,8.7,"Action,Sci-Fi",2h 16m,63000000.0,467222728.0
+17,Goodfellas,1990,8.7,"Biography,Crime,Drama",2h 25m,25000000.0,47036784.0
+18,One Flew Over the Cuckoo's Nest,1975,8.7,Drama,2h 13m,3000000.0,109114817.0
+19,Se7en,1995,8.6,"Crime,Drama,Mystery",2h 7m,33000000.0,327333559.0
+20,Seven Samurai,1954,8.6,"Action,Drama",3h 27m,125000000.0,346258.0
+21,It's a Wonderful Life,1946,8.6,"Drama,Family,Fantasy",2h 10m,3180000.0,8574081.0
+22,The Silence of the Lambs,1991,8.6,"Crime,Drama,Thriller",1h 58m,19000000.0,272742922.0
+23,City of God,2002,8.6,"Crime,Drama",2h 10m,3300000.0,30680793.0
+24,Saving Private Ryan,1998,8.6,"Drama,War",2h 49m,70000000.0,482349603.0
+25,Interstellar,2014,8.6,"Adventure,Drama,Sci-Fi",2h 49m,165000000.0,773867216.0
+26,Life Is Beautiful,1997,8.6,"Comedy,Drama,Romance",1h 56m,20000000.0,230098753.0
+27,The Green Mile,1999,8.6,"Crime,Drama,Fantasy",3h 9m,60000000.0,286801374.0
+28,Star Wars: Episode IV - A New Hope,1977,8.6,"Action,Adventure,Fantasy",2h 1m,11000000.0,775398007.0
+29,Terminator 2: Judgment Day,1991,8.6,"Action,Sci-Fi",2h 17m,102000000.0,520881154.0
+30,Back to the Future,1985,8.5,"Adventure,Comedy,Sci-Fi",1h 56m,19000000.0,383336762.0
+31,Spirited Away,2001,8.6,"Animation,Adventure,Family",2h 5m,19000000.0,355822319.0
+32,The Pianist,2002,8.5,"Biography,Drama,Music",2h 30m,35000000.0,120072577.0
+33,Psycho,1960,8.5,"Horror,Mystery,Thriller",1h 49m,806947.0,32052925.0
+34,Parasite,2019,8.5,"Drama,Thriller",2h 12m,11400000.0,262676096.0
+35,Léon: The Professional,1994,8.5,"Action,Crime,Drama",1h 50m,115000000.0,19569225.0
+36,The Lion King,1994,8.5,"Animation,Adventure,Drama",1h 28m,45000000.0,968511805.0
+37,Gladiator,2000,8.5,"Action,Adventure,Drama",2h 35m,103000000.0,503162313.0
+38,American History X,1998,8.5,"Crime,Drama",1h 59m,20000000.0,23875127.0
+39,The Departed,2006,8.5,"Crime,Drama,Thriller",2h 31m,90000000.0,291480452.0
+40,The Usual Suspects,1995,8.5,"Crime,Drama,Mystery",1h 46m,6000000.0,23341568.0
+41,The Prestige,2006,8.5,"Drama,Mystery,Sci-Fi",2h 10m,40000000.0,109676311.0
+42,Whiplash,2014,8.5,"Drama,Music",1h 46m,3300000.0,49396747.0
+43,Casablanca,1942,8.5,"Drama,Romance,War",1h 42m,950000.0,4626532.0
+44,Grave of the Fireflies,1988,8.5,"Animation,Drama,War",1h 29m,3700000.0,516962.0
+45,Harakiri,1962,8.6,"Action,Drama,Mystery",2h 13m,,
+46,The Intouchables,2011,8.5,"Biography,Comedy,Drama",1h 52m,9500000.0,426588510.0
+47,Modern Times,1936,8.5,"Comedy,Drama,Romance",1h 27m,1500000.0,463618.0
+48,Once Upon a Time in the West,1968,8.5,Western,2h 45m,5000000.0,5435024.0
+49,Rear Window,1954,8.5,"Mystery,Thriller",1h 52m,1000000.0,37034579.0
+50,Cinema Paradiso,1988,8.5,"Drama,Romance",2h 35m,5000000.0,13019063.0
+51,Alien,1979,8.5,"Horror,Sci-Fi",1h 57m,11000000.0,106285522.0
+52,City Lights,1931,8.5,"Comedy,Drama,Romance",1h 27m,1500000.0,50419.0
+53,Apocalypse Now,1979,8.5,"Drama,Mystery,War",2h 27m,31500000.0,104880868.0
+54,Memento,2000,8.4,"Mystery,Thriller",1h 53m,9000000.0,40047078.0
+55,Django Unchained,2012,8.4,"Drama,Western",2h 45m,100000000.0,426074373.0
+56,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,"Action,Adventure",1h 55m,18000000.0,389925971.0
+57,WALL·E,2008,8.4,"Animation,Adventure,Family",1h 38m,180000000.0,521311890.0
+58,The Lives of Others,2006,8.4,"Drama,Mystery,Thriller",2h 17m,2000000.0,77356942.0
+59,Sunset Blvd.,1950,8.4,"Drama,Film-Noir",1h 50m,1752000.0,300073.0
+60,Paths of Glory,1957,8.4,"Drama,War",1h 28m,935000.0,5252.0
+61,The Shining,1980,8.4,"Drama,Horror",2h 26m,19000000.0,47335804.0
+62,The Great Dictator,1940,8.4,"Comedy,Drama,War",2h 5m,2000000.0,970263.0
+63,Avengers: Infinity War,2018,8.4,"Action,Adventure,Sci-Fi",2h 29m,321000000.0,2052415039.0
+64,Witness for the Prosecution,1957,8.4,"Crime,Drama,Mystery",1h 56m,3000000.0,7693.0
+65,Aliens,1986,8.4,"Action,Adventure,Sci-Fi",2h 17m,18500000.0,131060248.0
+66,Spider-Man: Into the Spider-Verse,2018,8.4,"Animation,Action,Adventure",1h 57m,,
+67,American Beauty,1999,8.4,Drama,2h 2m,15000000.0,356296601.0
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,"Comedy,War",1h 35m,1800000.0,9523464.0
+69,The Dark Knight Rises,2012,8.4,"Action,Drama",2h 44m,250000000.0,1081169825.0
+70,Oldboy,2003,8.4,"Action,Drama,Mystery",2h,3000000.0,15421226.0
+71,Inglourious Basterds,2009,8.3,"Adventure,Drama,War",2h 33m,70000000.0,321457747.0
+72,Amadeus,1984,8.4,"Biography,Drama,Music",2h 40m,18000000.0,52066791.0
+73,Coco,2017,8.4,"Animation,Adventure,Comedy",1h 45m,175000000.0,814337054.0
+74,Toy Story,1995,8.3,"Animation,Adventure,Comedy",1h 21m,30000000.0,394436586.0
+75,Joker,2019,8.4,"Crime,Drama,Thriller",2h 2m,55000000.0,1074458282.0
+76,Braveheart,1995,8.4,"Biography,Drama,History",2h 58m,72000000.0,213216216.0
+77,The Boat,1981,8.4,"Drama,War",Not Available,32000000.0,11487676.0
+78,Avengers: Endgame,2019,8.4,"Action,Adventure,Drama",3h 1m,356000000.0,2799439100.0
+79,Princess Mononoke,1997,8.4,"Animation,Action,Adventure",2h 14m,2400000000.0,170005875.0
+80,Once Upon a Time in America,1984,8.3,"Crime,Drama",3h 49m,30000000.0,5473337.0
+81,Good Will Hunting,1997,8.3,"Drama,Romance",2h 6m,,
+82,Your Name.,2016,8.4,"Animation,Drama,Fantasy",1h 46m,,
+83,3 Idiots,2009,8.4,"Comedy,Drama",2h 50m,550000000.0,60262836.0
+84,Singin' in the Rain,1952,8.3,"Comedy,Musical,Romance",1h 43m,2540800.0,2000288.0
+85,Requiem for a Dream,2000,8.3,Drama,1h 42m,4500000.0,7390108.0
+86,Toy Story 3,2010,8.3,"Animation,Adventure,Comedy",1h 43m,200000000.0,1067316101.0
+87,High and Low,1963,8.4,"Crime,Drama,Mystery",2h 23m,,
+88,Capernaum,2018,8.4,Drama,2h 6m,,
+89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,"Action,Adventure,Fantasy",2h 11m,32500000.0,475106177.0
+90,Eternal Sunshine of the Spotless Mind,2004,8.3,"Drama,Romance,Sci-Fi",1h 48m,20000000.0,74036715.0
+91,2001: A Space Odyssey,1968,8.3,"Adventure,Sci-Fi",2h 29m,12000000.0,65889846.0
+92,Reservoir Dogs,1992,8.3,"Crime,Thriller",1h 39m,1200000.0,2913644.0
+93,Come and See,1985,8.4,"Drama,Thriller,War",2h 22m,,
+94,The Hunt,2012,8.3,Drama,1h 55m,,
+95,Citizen Kane,1941,8.3,"Drama,Mystery",1h 59m,839727.0,1645133.0
+96,M,1931,8.3,"Crime,Mystery,Thriller",1h 39m,,35566.0
+97,Lawrence of Arabia,1962,8.3,"Adventure,Biography,Drama",3h 38m,15000000.0,45720631.0
+98,North by Northwest,1959,8.3,"Action,Adventure,Mystery",2h 16m,3101000.0,142319.0
+99,Vertigo,1958,8.3,"Mystery,Romance,Thriller",2h 8m,2479000.0,7798146.0
+100,Ikiru,1952,8.3,Drama,2h 23m,,96302.0
+101,Amélie,2001,8.3,"Comedy,Romance",2h 2m,10000000.0,174122191.0
+102,The Apartment,1960,8.3,"Comedy,Drama,Romance",2h 5m,3000000.0,18778738.0
+103,A Clockwork Orange,1971,8.3,"Crime,Sci-Fi",2h 16m,2200000.0,26960374.0
+104,Double Indemnity,1944,8.3,"Crime,Drama,Film-Noir",1h 47m,927262.0,14651.0
+105,Full Metal Jacket,1987,8.3,"Drama,War",1h 56m,30000000.0,46358827.0
+106,Top Gun: Maverick,2022,8.3,"Action,Drama",2h 10m,170000000.0,1488732821.0
+107,Scarface,1983,8.3,"Crime,Drama",2h 50m,25000000.0,65884703.0
+108,Hamilton,2020,8.4,"Biography,Drama,History",2h 40m,,
+109,Incendies,2010,8.3,"Drama,Mystery",2h 11m,6800000.0,6788659.0
+110,To Kill a Mockingbird,1962,8.3,"Crime,Drama",2h 9m,2000000.0,599146.0
+111,Heat,1995,8.3,"Action,Crime,Drama",2h 50m,60000000.0,187436818.0
+112,The Sting,1973,8.3,"Comedy,Crime,Drama",2h 9m,5500000.0,156000000.0
+113,Up,2009,8.3,"Animation,Adventure,Comedy",1h 36m,175000000.0,735099102.0
+114,A Separation,2011,8.3,Drama,2h 3m,500000.0,22926076.0
+115,Metropolis,1927,8.3,"Drama,Sci-Fi",2h 33m,6000000.0,1349711.0
+116,Taxi Driver,1976,8.2,"Crime,Drama",1h 54m,1300000.0,28570902.0
+117,L.A. Confidential,1997,8.2,"Crime,Drama,Mystery",2h 18m,35000000.0,126216940.0
+118,Die Hard,1988,8.2,"Action,Thriller",2h 12m,28000000.0,141603197.0
+119,Snatch,2000,8.2,"Comedy,Crime",1h 42m,6000000.0,83557872.0
+120,Indiana Jones and the Last Crusade,1989,8.2,"Action,Adventure",2h 7m,48000000.0,474171806.0
+121,Bicycle Thieves,1948,8.3,Drama,1h 29m,133000.0,436655.0
+122,Like Stars on Earth,2007,8.3,"Drama,Family",2h 45m,,21897373.0
+123,1917,2019,8.2,"Action,Drama,War",1h 59m,95000000.0,384479940.0
+124,Downfall,2004,8.2,"Biography,Drama,History",2h 36m,13500000.0,92181574.0
+125,Dangal,2016,8.3,"Action,Biography,Drama",2h 41m,,
+126,For a Few Dollars More,1965,8.2,Western,2h 12m,600000.0,15000000.0
+127,Batman Begins,2005,8.2,"Action,Crime,Drama",2h 20m,150000000.0,373672993.0
+128,The Kid,1921,8.3,"Comedy,Drama,Family",1h 8m,250000.0,41960.0
+129,Some Like It Hot,1959,8.2,"Comedy,Music,Romance",2h 1m,2883848.0,195088.0
+130,The Father,2020,8.2,"Drama,Mystery",1h 37m,6000000.0,24427162.0
+131,All About Eve,1950,8.2,Drama,2h 18m,1400000.0,151052.0
+132,The Wolf of Wall Street,2013,8.2,"Biography,Comedy,Crime",3h,100000000.0,406878233.0
+133,Green Book,2018,8.2,"Biography,Comedy,Drama",2h 10m,23000000.0,321752656.0
+134,Judgment at Nuremberg,1961,8.3,"Drama,War",2h 59m,3000000.0,12180.0
+135,Casino,1995,8.2,"Crime,Drama",2h 58m,52000000.0,116112375.0
+136,Ran,1985,8.2,"Action,Drama,War",2h 42m,11500000.0,4164283.0
+137,Pan's Labyrinth,2006,8.2,"Drama,Fantasy,War",1h 58m,19000000.0,83862032.0
+138,The Truman Show,1998,8.2,"Comedy,Drama",1h 43m,60000000.0,264118201.0
+139,There Will Be Blood,2007,8.2,Drama,2h 38m,25000000.0,76182388.0
+140,Unforgiven,1992,8.2,"Drama,Western",2h 10m,14400000.0,159167799.0
+141,The Sixth Sense,1999,8.2,"Drama,Mystery,Thriller",1h 47m,40000000.0,672806432.0
+142,Shutter Island,2010,8.2,"Mystery,Thriller",2h 18m,80000000.0,294805697.0
+143,A Beautiful Mind,2001,8.2,"Biography,Drama",2h 15m,58000000.0,316791257.0
+144,Jurassic Park,1993,8.2,"Action,Adventure,Sci-Fi",2h 7m,63000000.0,1109802321.0
+145,Yojimbo,1961,8.2,"Action,Drama,Thriller",1h 50m,,46808.0
+146,The Treasure of the Sierra Madre,1948,8.2,"Adventure,Drama,Western",2h 6m,3000000.0,5014000.0
+147,Monty Python and the Holy Grail,1975,8.2,"Adventure,Comedy,Fantasy",1h 31m,229575.0,1940906.0
+148,The Great Escape,1963,8.2,"Adventure,Drama,History",2h 52m,4000000.0,228178.0
+149,No Country for Old Men,2007,8.2,"Crime,Drama,Thriller",2h 2m,25000000.0,171627434.0
+150,Spider-Man: No Way Home,2021,8.2,"Action,Adventure,Fantasy",2h 28m,200000000.0,1921847111.0
+151,Kill Bill: Vol. 1,2003,8.2,"Action,Crime,Drama",1h 51m,30000000.0,180906076.0
+152,Rashomon,1950,8.2,"Crime,Drama,Mystery",1h 28m,250000.0,81379.0
+153,The Thing,1982,8.2,"Horror,Mystery,Sci-Fi",1h 49m,15000000.0,19632715.0
+154,Finding Nemo,2003,8.2,"Animation,Adventure,Comedy",1h 40m,94000000.0,941637960.0
+155,The Elephant Man,1980,8.2,"Biography,Drama",2h 4m,5000000.0,26023860.0
+156,Chinatown,1974,8.2,"Drama,Mystery,Thriller",2h 10m,6000000.0,29225935.0
+157,Raging Bull,1980,8.2,"Biography,Drama,Sport",2h 9m,18000000.0,23402427.0
+158,V for Vendetta,2005,8.2,"Action,Drama,Sci-Fi",2h 12m,54000000.0,134686457.0
+159,Gone with the Wind,1939,8.2,"Drama,Romance,War",3h 58m,3977000.0,402382193.0
+160,"Lock, Stock and Two Smoking Barrels",1998,8.2,"Action,Comedy,Crime",1h 47m,960000.0,3753929.0
+161,Inside Out,2015,8.2,"Animation,Adventure,Comedy",1h 35m,175000000.0,858848019.0
+162,Dial M for Murder,1954,8.2,"Crime,Thriller",1h 45m,1400000.0,31207.0
+163,The Secret in Their Eyes,2009,8.2,"Drama,Mystery,Romance",2h 9m,,
+164,Howl's Moving Castle,2004,8.2,"Animation,Adventure,Family",1h 59m,24000000.0,237536126.0
+165,"Three Billboards Outside Ebbing, Missouri",2017,8.1,"Comedy,Crime,Drama",1h 55m,15000000.0,162861289.0
+166,The Bridge on the River Kwai,1957,8.2,"Adventure,Drama,War",2h 41m,3000000.0,27200000.0
+167,Trainspotting,1996,8.1,Drama,1h 33m,1500000.0,16767475.0
+168,Prisoners,2013,8.1,"Crime,Drama,Mystery",2h 33m,46000000.0,122126687.0
+169,Warrior,2011,8.2,"Action,Drama,Sport",2h 20m,25000000.0,23308615.0
+170,Fargo,1996,8.1,"Crime,Thriller",1h 38m,7000000.0,60611975.0
+171,Gran Torino,2008,8.1,Drama,1h 56m,33000000.0,269958228.0
+172,My Neighbor Totoro,1988,8.1,"Animation,Comedy,Family",1h 26m,,
+173,Catch Me If You Can,2002,8.1,"Biography,Crime,Drama",2h 21m,,
+174,Million Dollar Baby,2004,8.1,"Drama,Sport",2h 12m,30000000.0,216763646.0
+175,Children of Heaven,1997,8.2,"Drama,Family,Sport",1h 29m,,
+176,Blade Runner,1982,8.1,"Action,Drama,Sci-Fi",1h 57m,28000000.0,41722424.0
+177,The Gold Rush,1925,8.1,"Adventure,Comedy,Drama",1h 35m,923000.0,29328.0
+178,Before Sunrise,1995,8.1,"Drama,Romance",1h 41m,2500000.0,5987386.0
+179,12 Years a Slave,2013,8.1,"Biography,Drama,History",2h 14m,20000000.0,187733202.0
+180,Klaus,2019,8.2,"Animation,Adventure,Comedy",1h 36m,,
+181,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,"Adventure,Family,Fantasy",2h 10m,125000000.0,1342359942.0
+182,On the Waterfront,1954,8.1,"Crime,Drama,Thriller",1h 48m,910000.0,910000.0
+183,Ben-Hur,1959,8.1,"Adventure,Drama",3h 32m,15000000.0,74437720.0
+184,Gone Girl,2014,8.1,"Drama,Mystery,Thriller",2h 29m,,
+185,The Grand Budapest Hotel,2014,8.1,"Adventure,Comedy,Crime",1h 39m,25000000.0,173082189.0
+186,Wild Strawberries,1957,8.1,"Drama,Romance",1h 31m,,60418.0
+187,The General,1926,8.1,"Action,Adventure,Comedy",1h 7m,750000.0,750000.0
+188,The Third Man,1949,8.1,"Film-Noir,Mystery,Thriller",1h 33m,,1226507.0
+189,In the Name of the Father,1993,8.1,"Biography,Crime,Drama",2h 13m,,
+190,The Deer Hunter,1978,8.1,"Drama,War",3h 3m,15000000.0,49074379.0
+191,Barry Lyndon,1975,8.1,"Adventure,Drama,War",3h 5m,11000000.0,199632.0
+192,Hacksaw Ridge,2016,8.1,"Biography,Drama,History",2h 19m,40000000.0,180563636.0
+193,The Wages of Fear,1953,8.2,"Adventure,Drama,Thriller",2h 11m,,1098.0
+194,Memories of Murder,2003,8.1,"Crime,Drama,Mystery",2h 12m,2800000.0,1166717.0
+195,Sherlock Jr.,1924,8.2,"Action,Comedy,Romance",45m,,
+196,Wild Tales,2014,8.1,"Comedy,Drama,Thriller",2h 2m,,
+197,Mr. Smith Goes to Washington,1939,8.1,"Comedy,Drama",2h 9m,1900000.0,144738.0
+198,Mad Max: Fury Road,2015,8.1,"Action,Adventure,Sci-Fi",2h,150000000.0,415261382.0
+199,The Seventh Seal,1957,8.1,"Drama,Fantasy",1h 36m,150000.0,311212.0
+200,Mary and Max,2009,8.1,"Animation,Comedy,Drama",1h 32m,8240000.0,1740429.0
+201,How to Train Your Dragon,2010,8.1,"Animation,Action,Adventure",1h 38m,165000000.0,494879471.0
+202,Room,2015,8.1,"Drama,Thriller",1h 58m,13000000.0,35401758.0
+203,"Monsters, Inc.",2001,8.1,"Animation,Adventure,Comedy",1h 32m,115000000.0,579707738.0
+204,Jaws,1975,8.1,"Adventure,Thriller",2h 4m,7000000.0,476512065.0
+205,Dead Poets Society,1989,8.1,"Comedy,Drama",2h 8m,16400000.0,235860116.0
+206,The Big Lebowski,1998,8.1,"Comedy,Crime",1h 57m,15000000.0,46969409.0
+207,Tokyo Story,1953,8.2,Drama,2h 16m,,
+208,The Passion of Joan of Arc,1928,8.2,"Biography,Drama,History",1h 54m,,
+209,Hotel Rwanda,2004,8.1,"Biography,Drama,History",2h 1m,17500000.0,33882243.0
+210,Ford v Ferrari,2019,8.1,"Action,Biography,Drama",2h 32m,97600000.0,225508210.0
+211,Rocky,1976,8.1,"Drama,Sport",2h,960000.0,117250402.0
+212,Platoon,1986,8.1,"Drama,War",2h,6000000.0,138545632.0
+213,Ratatouille,2007,8.1,"Animation,Adventure,Comedy",1h 51m,150000000.0,623726085.0
+214,Spotlight,2015,8.1,"Biography,Crime,Drama",2h 9m,20000000.0,98690254.0
+215,The Terminator,1984,8.1,"Action,Sci-Fi",1h 47m,6400000.0,78371200.0
+216,Logan,2017,8.1,"Action,Drama,Sci-Fi",2h 17m,97000000.0,619179950.0
+217,Stand by Me,1986,8.1,"Adventure,Drama",1h 29m,8000000.0,52287414.0
+218,Rush,2013,8.1,"Action,Biography,Drama",2h 3m,38000000.0,96983009.0
+219,Network,1976,8.1,Drama,2h 1m,3800000.0,23690757.0
+220,Into the Wild,2007,8.1,"Adventure,Biography,Drama",2h 28m,15000000.0,56675895.0
+221,Before Sunset,2004,8.1,"Drama,Romance",1h 20m,,
+222,The Wizard of Oz,1939,8.1,"Adventure,Family,Fantasy",1h 42m,2777000.0,25637669.0
+223,Pather Panchali,1955,8.3,Drama,2h 5m,,135342.0
+224,Groundhog Day,1993,8.1,"Comedy,Drama,Fantasy",1h 41m,14600000.0,71108591.0
+225,The Best Years of Our Lives,1946,8.1,"Drama,Romance,War",2h 50m,2100000.0,23661347.0
+226,The Exorcist,1973,8.1,Horror,2h 2m,11000000.0,441306145.0
+227,The Incredibles,2004,8.0,"Animation,Action,Adventure",1h 55m,92000000.0,631607053.0
+228,To Be or Not to Be,1942,8.2,"Comedy,Romance,War",1h 39m,,
+229,La haine,1995,8.1,"Crime,Drama",1h 38m,,
+230,The Battle of Algiers,1966,8.1,"Drama,War",2h 1m,800000.0,962002.0
+231,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,"Action,Adventure,Fantasy",2h 23m,140000000.0,654264015.0
+232,Hachi: A Dog's Tale,2009,8.1,"Biography,Drama,Family",1h 33m,,
+233,The Grapes of Wrath,1940,8.1,Drama,2h 9m,800000.0,800000.0
+234,Jai Bhim,2021,8.8,"Crime,Drama,Mystery",2h 44m,,
+235,My Father and My Son,2005,8.2,"Drama,Family",1h 52m,,
+236,Amores Perros,2000,8.1,"Drama,Thriller",2h 34m,2000000.0,20908467.0
+237,Rebecca,1940,8.1,"Drama,Film-Noir,Mystery",2h 10m,1288000.0,72275.0
+238,Cool Hand Luke,1967,8.1,"Crime,Drama",2h 7m,3200000.0,67.0
+239,The Handmaiden,2016,8.1,"Drama,Romance,Thriller",2h 25m,,
+240,The 400 Blows,1959,8.1,"Crime,Drama",1h 39m,,127244.0
+241,The Sound of Music,1965,8.1,"Biography,Drama,Family",2h 52m,8200000.0,159428329.0
+242,It Happened One Night,1934,8.1,"Comedy,Romance",1h 45m,325000.0,11477.0
+243,Persona,1966,8.1,"Drama,Thriller",1h 23m,,
+244,Life of Brian,1979,8.0,Comedy,1h 34m,4000000.0,20745728.0
+245,The Iron Giant,1999,8.1,"Animation,Action,Adventure",1h 26m,70000000.0,23335817.0
+246,The Help,2011,8.1,Drama,2h 26m,25000000.0,216639112.0
+247,Dersu Uzala,1975,8.2,"Adventure,Biography,Drama",2h 22m,4000000.0,14480.0
+248,Aladdin,1992,8.0,"Animation,Adventure,Comedy",1h 30m,,
+249,Gandhi,1982,8.0,"Biography,Drama,History",3h 11m,22000000.0,52767889.0
+250,Dances with Wolves,1990,8.0,"Adventure,Drama,Western",3h 1m,22000000.0,424208848.0
